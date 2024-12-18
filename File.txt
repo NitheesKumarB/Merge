@@ -8,4 +8,6 @@ Scenario 4: book a car
 // by nithees
 scenario 5: book a car
 scenario 6: book a bus
->>>>>>> TrainMMT
+
+Scenario 55 : book a train to bangalore
+
