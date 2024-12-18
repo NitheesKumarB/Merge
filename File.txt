@@ -1,0 +1,11 @@
+Scenario 1: book a train
+Scenario 2: book a flight
+
+// by navjot
+Scenario 3: book a bus
+Scenario 4: book a car
+
+// by nithees
+scenario 5: book a car
+scenario 6: book a bus
+>>>>>>> TrainMMT
